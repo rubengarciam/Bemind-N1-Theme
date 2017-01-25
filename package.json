@@ -1,23 +1,23 @@
 {
-  "name": "Bemind-N1-Theme",
-  "title": "N1 - Bemind",
-  "displayName": "Bemind",
-  "email": "hello@bemind.me",
+  "name": "Relax-N1-Theme",
+  "title": "N1 - Relax",
+  "displayName": "Relax",
+  "email": "rubengarciamohedano@gmail.com",
   "theme": "ui",
-  "version": "0.1.0",
-  "description": "Bemind N1, the most epic theme for your Nylas N1 client",
+  "version": "0.0.1",
+  "description": "Relax Theme for Nylas Mail. Based in Bemind-N1",
   "license": "MIT",
   "engines": {
     "nylas": "*"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bemindinteractive/Bemind-N1-Theme.git"
+    "url": "git+https://github.com/rubengarciam/Relax-N1-Theme"
   },
   "bugs": {
-    "url": "https://github.com/bemindinteractive/Bemind-N1-Theme/issues"
+    "url": "https://github.com/rubengarciam/Relax-N1-Theme/issues"
   },
-  "homepage": "https://github.com/bemindinteractive/Bemind-N1-Theme/",
+  "homepage": "https://github.com/rubengarciam/Relax-N1-Theme",
   "private": true,
   "keywords": [
     "bemind",
